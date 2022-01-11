@@ -1,4 +1,4 @@
-package chap03.section1
+package chap03.section2
 
 fun main(args: Array<String>) {
     namedParam(x = 200, z = 100)
